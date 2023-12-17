@@ -1,2 +1,2 @@
 # Graph-Python
-A simple graph plotting between number and its squares values
+A simple graph plotting between numbers and its squares values
